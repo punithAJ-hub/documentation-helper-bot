@@ -17,6 +17,12 @@ This README has been updated to reflect the current repository layout and the la
 - Streamlit UI for interactive querying
 - Source attribution for retrieved documents
 
+## Demo
+
+https://github.com/user-attachments/assets/8150b9bc-e8fe-4401-bf59-96524b7ba964
+
+
+
 
 ## 📁 Repository layout
 
